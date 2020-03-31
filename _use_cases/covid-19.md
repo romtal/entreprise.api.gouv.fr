@@ -15,7 +15,7 @@ Les entreprises et associations éligibles devront remplir un formulaire propos�
 
 API Entreprise vous permet de : 
 - faciliter le traitement de la demande de subvention, en vous donnant accès à des données déterminantes de l'éligibilité de l'entreprise ou association demandeuse ;
-- mettre en oeuvre le "dîtes le nous une fois".
+- mettre en oeuvre le principe du "dîtes-le-nous une fois".
  
 :::info
 Si vous souhaitez mettre en œuvre des aides ou subventions relatives ou non au covid-19, indépendantes de cette aide de l’Etat, merci de consulter la page dédiée ["aides et subventions"](https://entreprise.api.gouv.fr/use_cases/aides_publiques/).
@@ -51,9 +51,9 @@ Dans le cadre de la demande de cette aide d'urgence, la personne morale doit jus
 
 - Employer, au 1er mars 2020, au moins un salarié en contrat à durée indéterminée ou déterminée ; 
 
-- Se trouver dans l’impossibilité de régler leurs dettes exigibles dans les trente jours suivants ;
+- Se trouver dans l’impossibilité de régler ses dettes exigibles dans les trente jours suivants ;
 
-- S'être vu refuser ou rester sans réponse dans un délai de 10 jours, leur demande d’un prêt de trésorerie d’un montant raisonnable faite depuis le 1er mars 2020 auprès d’une banque dont elles étaient clientes.
+- S'être vu refuser ou rester sans réponse dans un délai de 10 jours, votre demande de prêt de trésorerie d’un montant raisonnable faite depuis le 1er mars 2020 auprès d’une banque dont vous êtiez client.
 
 **Les justificatifs à fournir :**
 
@@ -71,18 +71,18 @@ Dans le cadre de la demande de cette aide d'urgence, la personne morale doit jus
 
 **2. Les informations permettant la vérification du dossier par l'instructeur**
  
-Une fois ces informations renseignées, c'est au tour des adminsitrations habilitées d'examiner la demande. La majeures parties des justficatifs étant des déclarations sur l'honneur, certaines vérifications pourraient être nécessaires et s'appuyer sur des données déjà connues de l'administration : 
+Une fois ces informations renseignées, c'est au tour des adminsitrations habilitées d'examiner la demande. La majeure partie des justficatifs étant des déclarations sur l'honneur, certaines vérifications pourraient être nécessaires et s'appuyer sur des données déjà connues de l'administration : 
 
 
 > Par exemple : 
-> - L'effectif indiqué peut être recoupé avec les données de l'ACOSS ;
+> - L'effectif indiqué peut être recoupé avec les données de l'Agence Centrale des Organismes de Sécurité Sociale (ACOSS) ;
 > - Les observations des greffes peuvent aider à mieux connaître la situation de l'entreprise ;
-> - Les chiffres d'affaires connus de la DGFIP peuvent faciliter l'examen du caractère raisonnable de la demande prêt.
+> - Les chiffres d'affaires connus de la DGFIP peuvent faciliter l'examen du caractère raisonnable de la demande de prêt.
 
 
 ### Les données disponibles avec API Entreprise
 
-API Entreprise regroupe les données de plusieurs administrations, et les mets à disposition au travers d'une API unique. Voici la liste des endpoints adpatés à ce cas d'utilisation : 
+API Entreprise regroupe les données de plusieurs administrations, et les mets à disposition au travers d'une API unique. Voici la liste des "endpoints" adpatés à ce cas d'utilisation : 
 
 
 {:.tpl-table}
@@ -116,7 +116,6 @@ L'accès à l'API Entreprise dans le cadre de ce cas d'usage sera strictement r�
 - aux collectivités territoriales de Guyane et de Martinique
 - au conseil départemental de Mayotte, 
 - aux assemblées de Saint-Barthélemy, de Saint-Martin, de Saint-Pierre-et-Miquelon ou de Wallis-et-Futuna, 
-
 - ainsi qu'à leurs éditeurs prestataires.
 
 Pour votre demande d'accès, [veuillez consulter la page "Demander un accès](https://etalab.github.io/entreprise.api.gouv.fr/demander_un_acces/), un déroulé des étapes vous sera décrit.
